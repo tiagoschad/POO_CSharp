@@ -10,6 +10,12 @@ public class ContaCorrente
         this.Agencia = Agencia;
         this.Numero = Numero;
         this.Saldo = Saldo;
-
+    }
+    public bool Sacar(double valorSaque){
+        if (this.Saldo >= valorSaque){
+            this.Saldo = Saldo - valorSaque;
+            return true;
+        }
+        return false;
     }
 }
