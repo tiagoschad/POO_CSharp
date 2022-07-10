@@ -62,3 +62,19 @@ C:\Users\Alunos\Desktop\Tiago LPR\POO_CSharp\CSharp\meuPrimeiroProjeto\obj\Debug
 C:\Users\Alunos\Desktop\Tiago LPR\POO_CSharp\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\ref\meuPrimeiroProjeto.dll
 C:\Users\Alunos\Desktop\Tiago LPR\POO_CSharp\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.pdb
 C:\Users\Alunos\Desktop\Tiago LPR\POO_CSharp\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.genruntimeconfig.cache
+C:\Users\tiago\Desktop\POO_CSharp\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\tiago\Desktop\POO_CSharp\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\Desktop\POO_CSharp\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\tiago\Desktop\POO_CSharp\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.AssemblyInfo.cs
+C:\Users\tiago\Desktop\POO_CSharp\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Desktop\POO_CSharp\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.dll
+C:\Users\tiago\Desktop\POO_CSharp\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.pdb
+C:\Users\tiago\Desktop\POO_CSharp\CSharp\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.exe
+C:\Users\tiago\Desktop\POO_CSharp\CSharp\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.deps.json
+C:\Users\tiago\Desktop\POO_CSharp\CSharp\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.runtimeconfig.json
+C:\Users\tiago\Desktop\POO_CSharp\CSharp\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\tiago\Desktop\POO_CSharp\CSharp\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.dll
+C:\Users\tiago\Desktop\POO_CSharp\CSharp\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.pdb
+C:\Users\tiago\Desktop\POO_CSharp\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\refint\meuPrimeiroProjeto.dll
+C:\Users\tiago\Desktop\POO_CSharp\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.genruntimeconfig.cache
+C:\Users\tiago\Desktop\POO_CSharp\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\ref\meuPrimeiroProjeto.dll

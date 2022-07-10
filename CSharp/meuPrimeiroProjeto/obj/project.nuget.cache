@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "T03XnXQqe+QWG4/pbysIuHEPwZ8EMYtxiu88Ig1+lTJIDV15kDZIpatQEvqgyIPGFfc0LbIPJLs4CTh87aFdnQ==",
+  "dgSpecHash": "d3cRI3l2t7b5BXDureGFLs32+BbiR6YQXr3C0z7vMha7VspXvJHD/1Qwbqvi/85Suk6LYPlQHJ24EvgfolrXiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alunos\\Desktop\\Tiago LPR\\POO_CSharp\\CSharp\\meuPrimeiroProjeto\\meuPrimeiroProjeto.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\tiago\\Desktop\\POO_CSharp\\CSharp\\meuPrimeiroProjeto\\meuPrimeiroProjeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

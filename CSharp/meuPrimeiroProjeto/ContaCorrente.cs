@@ -18,4 +18,8 @@ public class ContaCorrente
         }
         return false;
     }
+    public bool Depositar(double valorDeposito){
+        this.Saldo = Saldo + valorDeposito;
+        return true;
+    }
 }
